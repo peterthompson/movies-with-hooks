@@ -1,0 +1,209 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`displays 1`] = `
+<div>
+  <h2
+    role="button"
+    style="cursor: pointer;"
+  >
+    <span
+      style="font-family: courier;"
+    >
+      -
+    </span>
+     
+    Movies
+  </h2>
+  <table
+    class="pure-table pure-table-striped"
+  >
+    <thead>
+      <tr>
+        <th>
+          id
+        </th>
+        <th>
+          title
+        </th>
+        <th>
+          year
+        </th>
+        <th>
+          genre
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>
+          1
+        </td>
+        <td>
+          Once Upon a Time in the West
+        </td>
+        <td>
+          1968
+        </td>
+        <td>
+          Western
+        </td>
+      </tr>
+    </tbody>
+  </table>
+  <h2>
+    Select Movie
+  </h2>
+  <form
+    class="pure-form pure-form-aligned"
+  >
+    <fieldset>
+      <div
+        class="pure-control-group"
+      >
+        <label
+          for="year"
+        >
+          Year
+        </label>
+        <select
+          id="year"
+          name="year"
+        >
+          <option
+            disabled=""
+            hidden=""
+            value=""
+          >
+            Please select
+          </option>
+          <option
+            value="1968"
+          >
+            1968
+          </option>
+        </select>
+      </div>
+      <div
+        class="pure-control-group"
+      >
+        <label
+          for="genre"
+        >
+          Genre
+        </label>
+        <select
+          id="genre"
+          name="genre"
+        >
+          <option
+            disabled=""
+            hidden=""
+            value=""
+          >
+            Please select
+          </option>
+          <option
+            value="Western"
+          >
+            Western
+          </option>
+        </select>
+      </div>
+      <div
+        class="pure-control-group"
+      >
+        <label
+          for="id"
+        >
+          Movie
+        </label>
+        <select
+          disabled=""
+          id="id"
+          name="id"
+        >
+          <option
+            disabled=""
+            hidden=""
+            value=""
+          >
+            Please select
+          </option>
+        </select>
+        
+      </div>
+    </fieldset>
+  </form>
+  <h2>
+    Edit Movie
+  </h2>
+  <form
+    class="pure-form pure-form-aligned"
+  >
+    <fieldset>
+      <div
+        class="pure-control-group"
+      >
+        <label
+          for="title"
+        >
+          Title
+        </label>
+        <input
+          disabled=""
+          id="title"
+          name="title"
+          type="text"
+          value=""
+        />
+        
+      </div>
+      <div
+        class="pure-control-group"
+      >
+        <label
+          for="genre"
+        >
+          Genre
+        </label>
+        <input
+          disabled=""
+          id="genre"
+          name="genre"
+          type="text"
+          value=""
+        />
+        
+      </div>
+      <div
+        class="pure-control-group"
+      >
+        <label
+          for="year"
+        >
+          Year
+        </label>
+        <input
+          disabled=""
+          id="year"
+          name="year"
+          type="text"
+          value=""
+        />
+        
+      </div>
+      <div
+        class="pure-controls"
+      >
+        <button
+          class="pure-button"
+          disabled=""
+          type="submit"
+        >
+          Update
+        </button>
+      </div>
+    </fieldset>
+  </form>
+</div>
+`;

@@ -1,0 +1,44 @@
+[
+    {
+        "id": "1",
+        "title": "The Lion King",
+        "genre": "Family",
+        "year": "1994"
+    },
+    {
+        "id": "2",
+        "title": "Pulp Fiction",
+        "genre": "Comedy",
+        "year": "1994"
+    },
+    {
+        "id": "3",
+        "title": "The Mask",
+        "genre": "Comedy",
+        "year": "1994"
+    },
+    {
+        "id": "4",
+        "title": "The Shawshank Redemption",
+        "genre": "Drama",
+        "year": "1994"
+    },
+    {
+        "id": "5",
+        "title": "Toy Story",
+        "genre": "Family",
+        "year": "1995"
+    },
+    {
+        "id": "6",
+        "title": "Brave Heart",
+        "genre": "Action",
+        "year": "1995"
+    },
+    {
+        "id": "7",
+        "title": "Apollo 13",
+        "genre": "Drama",
+        "year": "1995"
+    }
+]
